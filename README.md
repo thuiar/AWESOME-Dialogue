@@ -28,12 +28,19 @@
 ### Natural Language Understanding
 #### Intent Detection
 - (2018) [Slot-Gated Modeling for Joint Slot Filling and Intent Prediction](https://www.aclweb.org/anthology/N18-2118/)
+- (2019) [Zero-shot User Intent Detection via Capsule Neural Networks](https://www.aclweb.org/anthology/D18-1348.pdf)
+
+#### Uknown Intent Detection (Out-of-domain Detection)
+- (2020) [Out-of-domain Detection for Natural Language Understanding in Dialog Systems](https://ieeexplore.ieee.org/document/9052492)
+- (2019) [Deep Unknown Intent Detection with Margin Loss](https://www.aclweb.org/anthology/P19-1548/)
+- (2019) [An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction](https://www.aclweb.org/anthology/D19-1131.pdf)
+- (2019) [A post-processing method for detecting unknown intent of dialogue system via pre-trained deep neural network classifier](https://www.sciencedirect.com/science/article/abs/pii/S0950705119304034)
 
 #### Intent Discovery
 - (2020) [Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement](https://arxiv.org/pdf/1911.08891.pdf)
-- (2019) [Deep Unknown Intent Detection with Margin Loss](https://www.aclweb.org/anthology/P19-1548/)
 - (2019) [Auto-Dialabel: Labeling Dialogue Data with Unsupervised Learning](https://www.aclweb.org/anthology/D18-1072/)
-
+- (2019) [Dialog Intent Induction with Deep Multi-View Clustering](https://www.aclweb.org/anthology/D19-1413.pdf)
+- (2019) [Supervised Clustering of Questions into Intents for Dialog System Applications](https://www.aclweb.org/anthology/D18-1254/)
 
 ### Dialogue Management
 
