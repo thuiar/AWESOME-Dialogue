@@ -2,7 +2,7 @@
 > Paper List for Dialogue Systems (PR is welcome!)
 
 ## Related Datasets
-- [Task-Oriented Dialogue Dataset Survey] (https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey)
+- [Task-Oriented Dialogue Dataset Survey](https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey)
 - (2019 EMNLP) [An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction](https://www.aclweb.org/anthology/D19-1131.pdf)
 - (2018 D&D) [A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://breakend.github.io/DialogDatasets/)
 - (2017 IJCNLP) [DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset](https://www.aclweb.org/anthology/I17-1099/)
@@ -13,8 +13,8 @@
 - (2018 COLING)[Deep learning for dialogue systems](https://www.csie.ntu.edu.tw/~yvchen/doc/DeepDialogue_Tutorial_ACL.pdf)
 - (2018 SIGIR) [Neural Approaches to Conversational](https://www.microsoft.com/en-us/research/uploads/prod/2018/07/neural-approaches-to-conversational-AI.pdf)
 
-## Related Reviews / Tutorials
-- (2017) [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf)
+## Related Reviews
+- (2017 KDD) [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf)
 
 ## Related Conferences and Journals
 ### Coferences
